@@ -1,0 +1,11 @@
+C:\Users\Володимир\source\repos\HTML-helpers\HTML-helpers\bin\Debug\netcoreapp2.0\HTMLhelpers.deps.json
+C:\Users\Володимир\source\repos\HTML-helpers\HTML-helpers\bin\Debug\netcoreapp2.0\HTMLhelpers.runtimeconfig.json
+C:\Users\Володимир\source\repos\HTML-helpers\HTML-helpers\bin\Debug\netcoreapp2.0\HTMLhelpers.runtimeconfig.dev.json
+C:\Users\Володимир\source\repos\HTML-helpers\HTML-helpers\bin\Debug\netcoreapp2.0\HTMLhelpers.dll
+C:\Users\Володимир\source\repos\HTML-helpers\HTML-helpers\bin\Debug\netcoreapp2.0\HTMLhelpers.pdb
+C:\Users\Володимир\source\repos\HTML-helpers\HTML-helpers\obj\Debug\netcoreapp2.0\HTMLhelpers.csprojAssemblyReference.cache
+C:\Users\Володимир\source\repos\HTML-helpers\HTML-helpers\obj\Debug\netcoreapp2.0\HTMLhelpers.csproj.CoreCompileInputs.cache
+C:\Users\Володимир\source\repos\HTML-helpers\HTML-helpers\obj\Debug\netcoreapp2.0\HTMLhelpers.AssemblyInfoInputs.cache
+C:\Users\Володимир\source\repos\HTML-helpers\HTML-helpers\obj\Debug\netcoreapp2.0\HTMLhelpers.AssemblyInfo.cs
+C:\Users\Володимир\source\repos\HTML-helpers\HTML-helpers\obj\Debug\netcoreapp2.0\HTMLhelpers.dll
+C:\Users\Володимир\source\repos\HTML-helpers\HTML-helpers\obj\Debug\netcoreapp2.0\HTMLhelpers.pdb
